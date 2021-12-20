@@ -6,7 +6,7 @@ Berikut beberapa projek yang sedang dikembangkan
 
 ## Simasjid
 
-Sistem informasi masjid (repositori menyusul)
+Sistem informasi rumah ibadah (repositori menyusul)
 
 ## Siponpes
 
